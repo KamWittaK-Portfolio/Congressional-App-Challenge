@@ -1,0 +1,10 @@
+Flask
+Flask_Cors
+numpy
+pandas
+PyJWT
+pyotp
+qrcode
+Requests
+scikit_learn
+yfinance
